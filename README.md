@@ -48,17 +48,7 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br> 
-## Watch snake eating my github contributions 
 
-![snake gif](https://github.com/gautamyadavasam/gautamyadavasam/blob/output/github-contribution-grid-snake.svg)
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
 
 
 <div align="center">
