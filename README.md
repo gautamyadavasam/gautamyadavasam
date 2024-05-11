@@ -34,6 +34,10 @@
   <a href="https://github.com/gautamyadavasam" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+    <a href="https://stackoverflow.com/users/gautamyadavasam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gautamyadavasam"style=for-the-badge&logo=todoist&logoColor=white" target="_blank height="30" width="40" /></a>
+<a href="https://fb.com/gautamyadavzz123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gautamyadavzz123" height="30" width="40" /></a>
+<a href="https://instagram.com/1sires" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1sires" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/gautamyadavasam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gautamyadavasam" height="30" width="40" /></a>
 </div>
 
  <hr/>
