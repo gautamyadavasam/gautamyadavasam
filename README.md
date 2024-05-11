@@ -34,12 +34,17 @@
   <a href="https://github.com/gautamyadavasam" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-    <a href="https://stackoverflow.com/users/gautamyadavasam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gautamyadavasam"style=for-the-badge&logo=todoist&logoColor=white" target="_blank height="30" width="40" /></a>
-<a href="https://fb.com/gautamyadavzz123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gautamyadavzz123" height="30" width="40" /></a>
+    <a href="https://stackoverflow.com/users/gautamyadavasam">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gautamyadavasam"style=for-the-badge&logo=todoist&logoColor=white" target="_blank height="30" width="40" />
+    </a>
+<a href="https://fb.com/gautamyadavzz123" target="blank"><img align="center" src="https://imgs.search.brave.com/BbcUcCg9sy2ellxfB1DH_7rLy-6wBtRfcmF-AJ3vmQI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudW5zcGxhc2gu/Y29tL3Bob3RvLTE2/MzM2NzUyNTQwNTMt/ZDk2Yzc2NjhjM2I4/P3E9ODAmdz0xMDAw/JmF1dG89Zm9ybWF0/JmZpdD1jcm9wJml4/bGliPXJiLTQuMC4z/Jml4aWQ9TTN3eE1q/QTNmREI4TUh4elpX/RnlZMmg4T0h4OFpt/RmpaV0p2YjJzbE1q/QnNiMmR2ZkdWdWZE/QjhmREI4Zkh3dw" alt="gautamyadavzz123" height="30" width="40" /></a>
 <a href="https://instagram.com/1sires" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1sires" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/gautamyadavasam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gautamyadavasam" height="30" width="40" /></a>
-</div>
+    <a href="https://dev.to/gautamyadavasam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gautamyadavasam" height="30" width="40" /></a>
+    
 
+</div>
+<p align="center"> <a href="https://twitter.com/dekchit" target="blank"><img src="https://img.shields.io/twitter/follow/dekchit?logo=twitter&style=for-the-badge" alt="dekchit" /></a> </p>
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
