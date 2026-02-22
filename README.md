@@ -1,86 +1,116 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gautamyadavasam.gautamyadavasam" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gautam+yadav!;" />
+  Hi 👋 I'm Gautam Yadav
 </h1>
 
-<h3 align="center">A passionate Fullstack developer from india 🇮🇳</h3>
+<h3 align="center">Data Analyst | SQL | Excel | Power BI | Business Intelligence</h3>
 
 <br/>
 
 <div align="center">
+  
+📊 Data Analyst with 1+ years of experience in Data Analysis, KPI Monitoring, and Business Intelligence Reporting  
 
-   🔭 I’m currently working on [Quality Leaves](https://github.com/gautamyadavasam/QUALITY-LEAVE)
-   
-   🌱 I’m currently learning **Node.js**
-   
-   👯 I’m looking to collaborate on [Quality Leaves](https://github.com/gautamyadavasam/QUALITY-LEAVE)
-   
-   💬 Ask me about **JavaScript, Backend Development**
-   
-   📫 How to reach me: **Yadavgautam932@gmail.com**
-   
-   ⚡ Fun fact: I'm a history buff by day 📚, a hospitality wizard by night 🏨, and a coding ninja whenever inspiration strikes! 💻🌟
+📈 Improved operational performance by 30% and increased profitability by 50% through data-driven insights  
 
- </div>
- 
-<div align="center"> 
-  <a href="yadavgautam932@gmail.com">
+🧠 Skilled in SQL (MySQL), Advanced Excel, and Power BI for data extraction, cleaning, transformation & visualization  
+
+📍 Assam, India  
+
+📫 Reach me at: <b>yadavgautam932@gmail.com</b>  
+
+</div>
+
+<br/>
+
+---
+
+<h2 align="center">💼 Professional Experience</h2>
+
+### 🏢 Data Analyst — Umatara Tea Estate  
+📅 Jan 2025 – Present | Dibrugarh, Assam  
+
+- Conducted year-over-year analysis on pesticide costs, labor utilization & productivity metrics  
+- Improved workforce productivity from **316 to 400 units per employee (26% growth)**  
+- Reduced labor usage from **7,100 to 6,800 mandays (4% optimization)**  
+- Designed daily KPI dashboards across 44 operational sections  
+- Supported annual budgeting using historical trends & rainfall data analysis  
+- Presented business intelligence insights to senior management  
+
+---
+
+<h2 align="center">🚀 Projects</h2>
+
+### 🎵 Music Database Analysis (SQL – Chinook Database)
+- Used SQL joins, aggregations, CTEs & window functions  
+- Analyzed revenue trends & customer behavior  
+- Applied structured data validation & normalization  
+
+### 🍽️ Zomato Restaurant Performance Dashboard (Excel)
+- Built interactive KPI dashboard using Pivot Tables & slicers  
+- Analyzed restaurant ratings, pricing & delivery performance  
+- Delivered management-ready automated reports  
+
+---
+
+<h2 align="center">🛠 Technical Skills</h2>
+
+### 📊 Data Analysis
+Data Cleaning • Data Validation • Data Normalization • Trend Analysis • KPI Monitoring • Performance Analysis • Descriptive Statistics  
+
+### 🗄 Database & Querying
+SQL (MySQL) • Joins • Aggregations • CTEs • Window Functions  
+
+### 📈 Business Intelligence
+Power BI • Dashboard Development • Data Visualization • MIS Reporting • Report Automation  
+
+### 🧰 Tools
+Advanced Excel (Pivot Tables, XLOOKUP, Advanced Formulas)  
+Google Sheets • MySQL • Python (Pandas, NumPy, Matplotlib, Scikit-learn)  
+PowerPoint • Google Slides • Keynote  
+
+---
+
+<h2 align="center">🎓 Education</h2>
+
+Post Graduate Diploma in Computer Applications (PGDCA) — 2024  
+Bachelor of Arts (History) — 2023  
+
+---
+
+<h2 align="center">🏆 Certifications</h2>
+
+Advanced Excel — Newton School  
+SQL Certification — HackerRank  
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<div align="center">
+  <a href="mailto:yadavgautam932@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://twitter.com/dekchit" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/gautamyadavasam" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://github.com/gautamyadavasam">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-    <a href="https://stackoverflow.com/users/gautamyadavasam">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gautamyadavasam"style=for-the-badge&logo=todoist&logoColor=white" target="_blank height="30" width="40" />
-    </a>
-<a href="https://fb.com/gautamyadavzz123" target="blank"><img align="center" src="https://imgs.search.brave.com/BbcUcCg9sy2ellxfB1DH_7rLy-6wBtRfcmF-AJ3vmQI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudW5zcGxhc2gu/Y29tL3Bob3RvLTE2/MzM2NzUyNTQwNTMt/ZDk2Yzc2NjhjM2I4/P3E9ODAmdz0xMDAw/JmF1dG89Zm9ybWF0/JmZpdD1jcm9wJml4/bGliPXJiLTQuMC4z/Jml4aWQ9TTN3eE1q/QTNmREI4TUh4elpX/RnlZMmg4T0h4OFpt/RmpaV0p2YjJzbE1q/QnNiMmR2ZkdWdWZE/QjhmREI4Zkh3dw" alt="gautamyadavzz123" height="30" width="40" /></a>
-<a href="https://instagram.com/1sires" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1sires" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/gautamyadavasam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gautamyadavasam" height="30" width="40" /></a>
-    <a href="https://dev.to/gautamyadavasam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gautamyadavasam" height="30" width="40" /></a>
-    
-
-</div>
-<p align="center"> <a href="https://twitter.com/dekchit" target="blank"><img src="https://img.shields.io/twitter/follow/dekchit?logo=twitter&style=for-the-badge" alt="dekchit" /></a> </p>
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git," />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,nextjs,mysql workbench" /><br>
 </div>
 
-<br/>
-<hr/>
+---
 
-
-
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=gautamyadavasam&theme=react&border_radius=10" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=gautamyadavasam&show_icons=true&theme=react&border_radius=10" />
   <br>
-    
-<div align="center">
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=gautamyadavasam&theme=react&border_radius=10" alt="GitHub Streak" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=gautamyadavasam&show_icons=true&locale=en&theme=react&border_radius=10" alt="GitHub Stats" />
-<br>
-
-<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautamyadavasam&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamyadavasam&layout=compact&theme=react&border_radius=10" />
 </div>
 
+---
 
-
-
-<hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://buymeacoffee.com/gautamyadav' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
-
+<h3 align="center">"Turning Data into Decisions 📊"</h3>
